@@ -1,5 +1,3 @@
-package by.itacademy;
-
 import static java.lang.System.out;
 
 public class Account {
